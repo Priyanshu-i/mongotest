@@ -1,0 +1,33 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #343a40;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.abc{
+    display: flex;
+    justify-content: center;
+}
